@@ -93,3 +93,79 @@ Configurar:
 
 Flavia Hepp
 Proyecto de SQL aplicado a análisis de riesgo basado en eventos.
+
+****
+📊⚠️ **El riesgo no siempre aparece DESPUÉS de la noticia… a veces ya estaba ahí**
+
+En mercados, muchos reaccionan a los eventos:
+📉 problemas regulatorios
+🤝 adquisiciones
+
+Pero… ¿y si el riesgo ya se estaba acumulando antes?
+
+---
+
+💡 Estuve explorando una señal poco usada pero muy potente:
+
+👉 **Kurtosis previa a eventos corporativos**
+
+---
+
+🧠 **¿Qué mide esto?**
+
+La kurtosis captura la presencia de **eventos extremos** en los retornos.
+
+* Valores altos → colas pesadas
+* Más probabilidad de movimientos bruscos
+* Riesgo “latente” en el sistema
+
+---
+
+🔥 **El insight:**
+
+Detectar activos que, en los **5 días previos a un evento**, ya mostraban:
+
+* ⚠️ Kurtosis promedio elevada (> 5)
+* 📉 Mayor probabilidad de movimientos extremos
+
+Y luego… ocurre el evento.
+
+---
+
+🚨 **¿Qué nos dice esto?**
+
+👉 El mercado *no estaba tranquilo* antes de la noticia
+
+* Información filtrándose
+* Posicionamiento anticipado
+* Tensión oculta en el precio
+
+---
+
+📊 ¿Por qué es valioso?
+
+Porque cambia el enfoque:
+
+❌ No solo analizar el evento
+✅ Analizar el **estado del mercado antes del evento**
+
+---
+
+⚡ Aplicaciones:
+
+* Detección temprana de riesgo
+* Filtrado de eventos con mayor impacto potencial
+* Mejora en modelos de volatilidad
+* Estrategias de event-driven trading
+
+---
+
+💬 Muchas veces pensamos que el evento causa el movimiento…
+
+👉 Pero el mercado ya venía “hablando” antes.
+
+---
+
+En datos, las anomalías rara vez son casualidad.
+
+¿Alguna vez viste un activo comportarse “raro” antes de una noticia importante? 👇
